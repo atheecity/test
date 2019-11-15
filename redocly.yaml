@@ -1,0 +1,8 @@
+specFileName: test.json
+apiTitle: France Taxi
+splitSpec: false
+codeSamples: true
+swaggerUI: false
+travis: true
+repo: atheecity/test
+oasVersion: '2.0'
